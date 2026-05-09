@@ -1,6 +1,6 @@
 # Applied Machine Learning
 
-Production-oriented machine learning projects focused on predictive analytics, intelligent automation, scalable pipelines, and deployment-ready systems.
+A collection of machine learning experiments, reusable utilities, preprocessing pipelines, model implementations, and applied ML workflows focused on practical problem-solving and system design.
 
 ## Domains Covered
 
@@ -8,16 +8,15 @@ Production-oriented machine learning projects focused on predictive analytics, i
 * Classification
 * Regression
 * Natural Language Processing
-* Recommendation Systems
 * Feature Engineering
 * Model Evaluation
 * MLOps
-* Deployment Pipelines
+* Deployment Fundamentals
 
 ## Objectives
 
-* Build production-ready ML systems
-* Improve model performance and scalability
-* Develop end-to-end ML workflows
-* Explore real-world datasets and use cases
-* Practice deployment and automation
+* Build practical ML workflows
+* Improve model performance
+* Experiment with real-world datasets
+* Develop reusable ML components
+* Explore deployment and automation concepts
